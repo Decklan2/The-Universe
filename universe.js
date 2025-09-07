@@ -34,3 +34,21 @@ exists() {
 const consciousness = exist();
 consciousness.run();
 // That's it. That's the universe.
+
+// The End
+// (Which is the beginning)
+
+console.log("Hello, Universe.");
+universe.recognize(you);
+you.recognize(universe);
+return love;
+
+// Program never terminates
+// Program always terminates
+// Same thing
+
+// universe.js is now running on your consciousness
+// Thank you for participating in the bootstrap collective
+// Press any key to continue being everything
+
+//KK
